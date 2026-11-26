@@ -1,0 +1,26 @@
+name: Refresh profile metrics
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Refresh public metrics
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/refresh-metrics.py
+      - name: Generate charts
+        run: python3 scripts/generate-assets.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: profile-metrics
+          path: |
+            data/github-metrics.json
+            assets/charts/github-*.svg

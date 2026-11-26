@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title">
+  <title id="title">URL Shortener creation and redirect paths</title>
+  <style>text{font-family:Arial,sans-serif}</style>
+  <rect width="960" height="280" rx="16" fill="#0b1511"/>
+  <g fill="#f1f2e9">
+    <text x="40" y="54" font-size="31" font-weight="700">URL Shortener · request flow</text>
+    <g fill="#14231c" stroke="#b6d9bc" stroke-width="2">
+      <rect x="40" y="88" width="240" height="56" rx="8"/><rect x="352" y="88" width="240" height="56" rx="8"/>
+      <rect x="40" y="184" width="240" height="56" rx="8"/><rect x="352" y="184" width="240" height="56" rx="8"/>
+      <rect x="672" y="88" width="248" height="56" rx="8"/><rect x="672" y="184" width="248" height="56" rx="8"/>
+    </g>
+    <g fill="none" stroke="#b6d9bc" stroke-width="3">
+      <path d="M296 116H336m-7-6 7 6-7 6M608 116H656m-7-6 7 6-7 6M296 212H336m-7-6 7 6-7 6M608 212H656m-7-6 7 6-7 6"/>
+      <path d="M472 184V164H796V144m-6 7 6-7 6 7"/>
+    </g>
+    <g font-size="22" text-anchor="middle">
+      <text x="160" y="124">Submit long URL</text><text x="472" y="124">POST /api/shorten</text><text x="796" y="124">MySQL urls</text>
+      <text x="160" y="220">Follow short link</text><text x="472" y="220">Dynamic route</text><text x="796" y="220">Original destination</text>
+    </g>
+    </g>
+</svg>

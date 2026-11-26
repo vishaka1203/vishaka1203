@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="296" viewBox="0 0 960 296" role="img" aria-labelledby="title">
+  <title id="title">Lighthouse mobile category scores</title>
+  <style>text{font-family:Arial,sans-serif}</style>
+  <rect width="960" height="296" rx="16" fill="#0b1511"/>
+  <g fill="#f1f2e9"><text x="40" y="54" font-size="31" font-weight="700">Portfolio · mobile lab audit</text>
+    <text x="40" y="115" font-size="23">Performance</text>
+    <rect x="228" y="96" width="568" height="22" rx="4" fill="#1b3023"/>
+    <rect x="228" y="96" width="403.28" height="22" rx="4" fill="#b6d9bc"/>
+    <text x="914" y="115" text-anchor="end" font-size="23" fill="#ceb989">71/100</text>
+    <text x="40" y="163" font-size="23">Accessibility</text>
+    <rect x="228" y="144" width="568" height="22" rx="4" fill="#1b3023"/>
+    <rect x="228" y="144" width="533.92" height="22" rx="4" fill="#b6d9bc"/>
+    <text x="914" y="163" text-anchor="end" font-size="23" fill="#ceb989">94/100</text>
+    <text x="40" y="211" font-size="23">Best practices</text>
+    <rect x="228" y="192" width="568" height="22" rx="4" fill="#1b3023"/>
+    <rect x="228" y="192" width="545.28" height="22" rx="4" fill="#b6d9bc"/>
+    <text x="914" y="211" text-anchor="end" font-size="23" fill="#ceb989">96/100</text>
+    <text x="40" y="259" font-size="23">SEO</text>
+    <rect x="228" y="240" width="568" height="22" rx="4" fill="#1b3023"/>
+    <rect x="228" y="240" width="568.00" height="22" rx="4" fill="#b6d9bc"/>
+    <text x="914" y="259" text-anchor="end" font-size="23" fill="#ceb989">100/100</text></g>
+</svg>

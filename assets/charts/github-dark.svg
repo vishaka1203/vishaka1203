@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="810" viewBox="0 0 960 810" role="img" aria-labelledby="title">
+  <title id="title">Public GitHub counts, language bytes, and projects created by year</title>
+  <style>text{font-family:Arial,sans-serif}</style>
+  <rect width="960" height="810" rx="16" fill="#0b1511"/>
+  <g fill="#f1f2e9"><text x="40" y="54" font-size="30" font-weight="700">Public GitHub activity</text>
+    <text x="40" y="91" font-size="22" fill="#afbeb2">Snapshot · 2026-11-26 UTC</text>
+    <rect x="40" y="120" width="268" height="112" rx="12" fill="#14231c"/>
+    <text x="60" y="171" font-size="41" font-weight="700" fill="#b6d9bc">12</text>
+    <text x="60" y="207" font-size="20">Public repos</text>
+    <rect x="346" y="120" width="268" height="112" rx="12" fill="#14231c"/>
+    <text x="366" y="171" font-size="41" font-weight="700" fill="#b6d9bc">2</text>
+    <text x="366" y="207" font-size="20">Merged on own repos</text>
+    <rect x="652" y="120" width="268" height="112" rx="12" fill="#14231c"/>
+    <text x="672" y="171" font-size="41" font-weight="700" fill="#b6d9bc">0</text>
+    <text x="672" y="207" font-size="20">Merged on other repos</text>
+    <text x="40" y="294" font-size="27" font-weight="700">Repository language bytes</text>
+    <text x="40" y="358" font-size="23">TypeScript</text>
+    <rect x="226" y="342" width="568" height="20" rx="4" fill="#1b3023"/>
+    <rect x="226" y="342" width="265.81" height="20" rx="4" fill="#b6d9bc"/>
+    <text x="915" y="358" text-anchor="end" font-size="23" fill="#ceb989">46.8%</text>
+    <text x="40" y="406" font-size="23">CSS</text>
+    <rect x="226" y="390" width="568" height="20" rx="4" fill="#1b3023"/>
+    <rect x="226" y="390" width="169.89" height="20" rx="4" fill="#b6d9bc"/>
+    <text x="915" y="406" text-anchor="end" font-size="23" fill="#ceb989">29.9%</text>
+    <text x="40" y="454" font-size="23">JavaScript</text>
+    <rect x="226" y="438" width="568" height="20" rx="4" fill="#1b3023"/>
+    <rect x="226" y="438" width="120.04" height="20" rx="4" fill="#b6d9bc"/>
+    <text x="915" y="454" text-anchor="end" font-size="23" fill="#ceb989">21.1%</text>
+    <text x="40" y="502" font-size="23">Python</text>
+    <rect x="226" y="486" width="568" height="20" rx="4" fill="#1b3023"/>
+    <rect x="226" y="486" width="4.34" height="20" rx="4" fill="#b6d9bc"/>
+    <text x="915" y="502" text-anchor="end" font-size="23" fill="#ceb989">0.8%</text>
+    <text x="40" y="550" font-size="23">Other</text>
+    <rect x="226" y="534" width="568" height="20" rx="4" fill="#1b3023"/>
+    <rect x="226" y="534" width="7.92" height="20" rx="4" fill="#b6d9bc"/>
+    <text x="915" y="550" text-anchor="end" font-size="23" fill="#ceb989">1.4%</text>
+    <text x="40" y="610" font-size="27" font-weight="700">Project repositories created</text>
+    <text x="40" y="658" font-size="23">2024</text>
+    <rect x="226" y="642" width="568.00" height="20" rx="4" fill="#b6d9bc"/>
+    <text x="915" y="658" text-anchor="end" font-size="23" fill="#ceb989">6</text>
+    <text x="40" y="706" font-size="23">2025</text>
+    <rect x="226" y="690" width="94.67" height="20" rx="4" fill="#b6d9bc"/>
+    <text x="915" y="706" text-anchor="end" font-size="23" fill="#ceb989">1</text>
+    <text x="40" y="754" font-size="23">2026</text>
+    <rect x="226" y="738" width="284.00" height="20" rx="4" fill="#b6d9bc"/>
+    <text x="915" y="754" text-anchor="end" font-size="23" fill="#ceb989">3</text></g>
+</svg>

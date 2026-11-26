@@ -1,0 +1,39 @@
+{
+  "light": {
+    "paper": "#f3f5f0",
+    "surface": "#ffffff",
+    "ink": "#152a23",
+    "muted": "#52665c",
+    "line": "#d5dfd6",
+    "accent": "#164f3d",
+    "soft": "#e4ede4",
+    "panel": "#eaf0e7",
+    "champagne": "#806235",
+    "glass": "#f8faf4db",
+    "card-surface": "#ffffffb8",
+    "card-highlight": "#ffffff",
+    "shadow": "#132e1e0b",
+    "iridescence-color": "#1d6c50"
+  },
+  "dark": {
+    "paper": "#0b1511",
+    "surface": "#14231c",
+    "ink": "#f1f2e9",
+    "muted": "#afbeb2",
+    "line": "#2e4335",
+    "accent": "#b6d9bc",
+    "soft": "#1b3023",
+    "panel": "#102219",
+    "champagne": "#ceb989",
+    "glass": "#102017db",
+    "card-surface": "#13271dcc",
+    "card-highlight": "#273f30",
+    "shadow": "#00000024",
+    "iridescence-color": "#357c54"
+  },
+  "fonts": {
+    "sans": "Manrope",
+    "serif": "Cormorant Garamond Italic"
+  },
+  "spacingPx": 8
+}
